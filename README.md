@@ -1,7 +1,5 @@
 <h1 align="center">PurMM: Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models</h1>
 
-[AAAI'26 Oral]
-
 <div align="center">
 <img alt="method" src="PurMM_Framework.png">
 </div>
