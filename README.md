@@ -1,5 +1,6 @@
-# PurMM
-[AAAI'25 Oral] PurMM: Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models
+<h1 align="center">PurMM: Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models</h1>
+
+[AAAI'26 Oral]
 
 <h2> 🙌 Abstract </h2>
 
