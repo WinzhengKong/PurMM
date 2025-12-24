@@ -1,7 +1,4 @@
-<h1 align="center">PurMM</h1>
-<h3 align="center">
-Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models
-</h3>
+<h1 align="center">PurMM: Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models</h1>
 
 <p align="center">
   <a href="#-overview">Overview</a> •
