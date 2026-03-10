@@ -1,4 +1,4 @@
-```markdown
+
 # PurMM: Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models
 
 [![Venue](https://img.shields.io/badge/Venue-AAAI%202026-blue.svg)](https://aaai.org/)
