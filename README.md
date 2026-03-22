@@ -18,10 +18,10 @@ Building on this insight, PurMM introduces a practical purification framework fo
 ## 📚 Relevant Projects
 
 ### 1. Backdoor Cleaning without External Guidance in MLLM Fine-tuning (NeurIPS 2025)  
-[Paper Link](https://openreview.net/forum?id=os4QYDf3Ms)
+[[Paper Link](https://openreview.net/forum?id=os4QYDf3Ms)]  [[Code Link](https://github.com/XuankunRong/BYE)]
 
 ### 2. Probing Semantic Insensitivity for Inference-Time Backdoor Defense in Multimodal Large Language Model (AAAI 2026)  
-[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/40891)
+[[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/40891)]
 
 ## 📝 Citation
 
