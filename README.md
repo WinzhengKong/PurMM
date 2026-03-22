@@ -28,7 +28,7 @@ On **LLaVA + ScienceQA**, PurMM reduces **ASR from 99.55% to 0.84%** while incre
 
 The robustness analysis further demonstrates that PurMM remains effective under different poisoning ratios, different localized trigger types such as **patch**, **pixel**, and **logo** triggers, and even under plausible adaptive attack settings including **Fixed Dual** and **Random Triple** triggers designed to disperse attention and evade attention-based defenses. Although semantically integrated triggers such as logos are more challenging, the method still maintains strong overall performance. Taken together, these experiments show that PurMM is a robust, general, and practical defense for backdoor threats in multimodal large language models.
 
-## 📚 Related Work
+## 📚 Relevant Projects
 
 ### 1. Backdoor Cleaning without External Guidance in MLLM Fine-tuning (NeurIPS 2025)  
 [Paper Link](https://openreview.net/forum?id=os4QYDf3Ms)
